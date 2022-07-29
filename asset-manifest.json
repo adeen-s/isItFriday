@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/isItFriday/static/css/main.073c9b0a.css",
+    "main.js": "/isItFriday/static/js/main.4f8c75dd.js",
+    "static/js/787.cfef8d12.chunk.js": "/isItFriday/static/js/787.cfef8d12.chunk.js",
+    "index.html": "/isItFriday/index.html",
+    "main.073c9b0a.css.map": "/isItFriday/static/css/main.073c9b0a.css.map",
+    "main.4f8c75dd.js.map": "/isItFriday/static/js/main.4f8c75dd.js.map",
+    "787.cfef8d12.chunk.js.map": "/isItFriday/static/js/787.cfef8d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4f8c75dd.js"
+  ]
+}
